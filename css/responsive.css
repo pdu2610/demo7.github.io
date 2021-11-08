@@ -1,0 +1,1111 @@
+@media only screen and (max-width: 1860px) {}
+
+@media only screen and (max-width: 1680px) {}
+
+@media only screen and (max-width: 1440px) {
+    .aboutinner {
+        padding: 40px 80px 40px 20px;
+        top: 100px;
+    }
+    .planbox {
+        width: 380px;
+    }
+}
+
+@media only screen and (max-width: 1366px) {
+    .aboutinner {
+        top: 80px;
+    }
+    .planbox {
+        width: 350px;
+    }
+}
+
+@media only screen and (max-width: 1280px) {
+    .new,
+    .curent {
+        width: 180px;
+    }
+    .aboutinner {
+        padding: 20px 80px 20px 20px;
+    }
+    .planbox {
+        width: 330px;
+    }
+}
+
+@media only screen and (max-width: 1199px) {
+    .new,
+    .curent {
+        width: 146px;
+    }
+    .planbox {
+        width: 320px;
+    }
+}
+
+@media only screen and (max-width: 1169px) {
+    .aboutinner {
+        padding: 0px 80px 0px 20px;
+    }
+    .ourdoccontant {
+        width: 75%;
+        padding: 60px 50px;
+    }
+    .ourdoccontant {
+        top: 65px;
+    }
+    .planbox {
+        width: 270px;
+    }
+}
+
+@media only screen and (max-width: 1023px) {
+    .aboutinner {
+        top: 45px;
+    }
+    span.foothoursday {
+        width: 118px;
+        display: inline-block;
+    }
+    .planbox {
+        width: 265px;
+    }
+}
+
+@media only screen and (min-width: 992px) {}
+
+@media only screen and (max-width: 991px) {
+    .bannercol2 { 
+        padding: 10px 15px;
+        float: left;
+        width: 100%;
+    }
+    .header-menu {
+        padding: 15px 0px 40px;
+    }
+    div#container {
+        margin-top: 0px;
+        padding: 0px 0px 0px 0px;
+    }
+    .planbox {
+        width: 399px;
+    } 
+    .bannercol {
+        width: 100%;
+        padding: 0px 15px;
+        float: left;
+        margin: 0;
+        z-index: 1;
+        position: relative;
+    }
+    span.foothoursday {
+        text-align: justify;
+    }
+    .firstname,
+    .email,
+    .phone_no,
+    .bookbtn .clearfix,
+    .pdate,
+    .ptime {
+        width: 50%;
+        float: left;
+        padding: 15px;
+    }
+    .new,
+    .curent {
+        width: 200px;
+    }
+    .comment {
+        width: 100%;
+        /* float: left; */
+        padding: 15px 0px;
+    }
+    .bannersection .wrap-inner {
+        text-align: center;
+    }
+    .bannersection {
+        position: relative;
+        height: 1190px;
+    }
+    .aboutinner {
+        max-width: 630px;
+        margin-left: auto;
+        position: relative;
+        background: #fff;
+        padding: 0px;
+        left: 0%;
+        border-radius: 15px;
+        width: 100%;
+        top: 90px;
+    }
+    .aboutsection {
+        padding: 40px 0px;
+    }
+    .aboutcol1 {
+        width: 41.6666666667%;
+    }
+    .aboutcol {
+        width: 58.3333333333%;
+    }
+    .aboutinner {
+        top: 20px;
+    }
+    .owl-carousel .owl-item img {
+        display: block;
+        /* width: 200px; */
+    }
+    .ourdoccontant {
+        width: 79%;
+        padding: 60px 50px;
+    }
+    .ourservice .owl-item.active+.owl-item.active .item {
+        border-right: none;
+    }
+    .ourgallerysection .item img {
+        width: 250px;
+    }
+    .ourdoccontant {
+        top: 70px;
+    }
+    .footerinfocol {
+        float: left;
+        margin: 0;
+        width: 100%;
+        z-index: 1;
+        position: relative;
+        padding: 10px;
+    }
+    .opninghours {
+        float: left;
+        margin: 0;
+        width: 50%;
+        z-index: 1;
+        position: relative;
+        padding: 10px;
+        text-align: center;
+    }
+    ul.mainmenu {
+        display: none;
+    }
+    ul.nav-menu {
+        position: absolute;
+        top: 50px;
+        width: 100%;
+        height: 0;
+        padding: 0;
+        overflow: hidden;
+    }
+    ul.nav-menu.active {
+        height: auto;
+    }
+    ul.nav-menu li {
+        width: 100%;
+    }
+    ul.nav-menu li a {
+        width: 100%;
+        padding: 0;
+        text-align: center;
+        background-color: #2c2c2c;
+    }
+    ul.nav-menu li a:hover {
+        background-color: #1c1c1c;
+    }
+    .nav-toggle {
+        display: block;
+        position: absolute;
+       
+    }
+    .headerbook {
+        padding: 0px;
+       
+    }
+    nav#navbar {
+        margin: 7px 0px 0 0;
+        text-align: right;
+        width: 50px;
+        float: none;
+        /* display: block; */
+        float: left;
+        position: relative;
+    }
+    ul.mainmenu {
+        position: absolute;
+        top: 110px;
+        width: 100%;
+        height: 0;
+        padding: 0;
+        overflow: hidden;
+        right: 0;
+        left: 0px;
+        background-color: #b3d2e6;
+    }
+    ul.mainmenu.active {
+        height: auto;
+        display: block;
+        z-index: 999999999999;
+        top: 40px;
+        width: 260px;
+        right: 0;
+        /* left: 16%; */
+        right: 0px;
+        text-align: center;
+        background-image: linear-gradient(to left top, #58c6ec, #4cb4e3, #46a1d8, #468fcc, #4a7cbe);
+    }
+    ul.mainmenu li {
+        float: none;
+    }
+    .number a {
+        font-size: 20px;
+        margin-left: 3px;
+    }
+    .location a {
+        display: inline-block;
+        vertical-align: middle;
+        font-size: 16px;
+        margin-right: 30px;
+    }
+    .location a {
+        width: 100%;
+    }
+    .pdate {
+        padding: 15px 15px 20px 15px;
+    }
+    .ptime {
+        padding: 2px 0px 10px 15px;
+    }
+    .bannersection label {
+        width: 85%;
+    }
+    .comment {
+        padding: 15px 0px 15px 14px;
+    }
+}
+
+@media only screen and (max-width: 959px) {
+    .new,
+    .curent {
+        width: 165px;
+    }
+    .ourdoccontant {
+        width: 71%;
+        padding: 60px 80px;
+    }
+    .owl-carousel .owl-item img {
+        display: block;
+        width: 200px;
+    }
+    .ourdoccontant {
+        top: 20px;
+        right: 50px;
+    }
+    .planbox {
+        width: 309px;
+    }
+    .ourgallerysection .owl-carousel .owl-item img {
+        width: 100%;
+    }
+    .hmpozativereview iframe {
+        width: 100%;
+        margin: 0 0 0 auto;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .new,
+    .curent {
+        width: 155px;
+    }
+    .planbox {
+        width: 300px;
+    }
+}
+
+@media only screen and (max-width: 768px) {}
+
+@media only screen and (max-width: 767px) {
+    .firstname,
+    .email,
+    .phone_no,
+    .bookbtn .clearfix,
+    .pdate,
+    .ptime {
+        width: 100%;
+        float: left;
+        padding: 15px 0px;
+    }
+    .comment {
+        /* padding: 10px 0px 0px 0px; */
+        padding: 0px;
+    }
+    .new,
+    .curent {
+        width: 250px;
+    }
+    .bannersection label {
+        width: 96%;
+    }
+    .bannersection {
+        position: relative;
+        height: 1362px;
+    }
+    .aboutcol {
+        width: 100%;
+        text-align: center;
+    }
+    .aboutcol1 {
+        width: 100%;
+        text-align: -webkit-center;
+    }
+    .aboutphoto img {
+        width: 50%;
+        display: block;
+    }
+    .thumb {
+        position: relative;
+        float: none;
+        width: 100%;
+        text-align: center;
+        max-width: 160px;
+        margin: 0 auto;
+    }
+    .ourdoccontant {
+        top: -25px;
+        margin-left: 60px;
+        float: none;
+        width: 100%;
+        box-shadow: 0px 2px 12px 0 rgb(32 33 36 / 28%);
+        padding: 30px 20px;
+    }
+    .ourdoctorsection.clearfix .item {
+        padding: 0 15px;
+    }
+    .ourdoctorsection.clearfix .owl-dots {
+        width: 80%;
+        right: 10%;
+        bottom: 0;
+    }
+    .aboutinner {
+        max-width: 740px;
+    }
+    .planbox {
+        margin: 0px;
+        width: 100%;
+    }
+    .hmpozativereview iframe {
+        width: 100%;
+        margin: 0 0 0 auto;
+    }
+    #logo {
+        width: 100%;
+        text-align: center;
+    }
+    .header-right {
+        float: left;
+        width: 100%;
+        margin-left: -150px;
+        padding: 5px 0;
+        /* padding-left: 300px; */
+        text-align: right;
+    }
+    .infocol {
+        width: 100%;
+    }
+    .footerptime {
+        margin-top: 0px;
+        margin-bottom: 20px;
+        border-radius: 5px;
+    }
+    ul.mainmenu.active {
+        top: 40px;
+        width: 260px;
+    }
+    .footerbookcol {
+        float: left;
+        margin: 0;
+        width: 100%;
+        z-index: 1;
+        position: relative;
+        padding: 0px;
+    }
+    .nav-toggle {
+        /* position: absolute; */
+        top: -5px;
+        right: 0%;
+        width: 50px;
+        height: 50px;
+        z-index: 1;
+        cursor: pointer;
+    }
+    .headerbook {
+        text-align: right;
+       
+    }
+    .reviewcol {
+        width: 100%;
+        margin: 0 0 0 auto;
+        padding: 0px;
+    }
+    .footerfirst_name, .footeremail,  .footerpdate, .footercomments, .footerbookbtn {
+        padding: 10px 0px 0px;
+    }
+    .footerbookappbtn {
+        text-align: center;
+    }
+    .footerbutton {
+        padding: 0px 0px;
+    }
+    .footerphone{
+        padding: 0px;
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    .header-right {
+        float: left;
+        width: 900px;
+        margin-left: -370px;
+        padding: 5px 0;
+        padding-left: 300px;
+        text-align: right;
+    }
+    .pricingcol {
+        width: 100%;
+        padding: 0px;
+        display: inline-block;
+        float: left;
+        text-align: -webkit-center;
+    }
+    .new,
+    .curent {
+        width: 220px;
+    }
+    .box-head h3 {
+        font-size: 70px;
+        line-height: 1;
+        margin: 0;
+        font-weight: 300;
+    }
+    .pricingplansection.clearfix h1 {
+        margin: 0 0 25px;
+        font-size: 30px;
+        line-height: 1.2;
+        font-weight: 500;
+        color: #384657;
+        text-align: center;
+    }
+    ul.boxlist {
+        padding: 0 10px;
+        list-style-type: none;
+        max-width: 270px;
+        margin: 0 auto 40px;
+        line-height: 1.1;
+    }
+    .boxlist li {
+        font-size: 14px;
+        font-weight: 300;
+        padding: 14px 0px;
+        display: block;
+        border-bottom: 0px solid #dadada;
+    }
+    .box-head {
+        padding: 20px 0 35px;
+    }
+    .bannersection {
+        height: 1100px;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .header-right {
+        float: left;
+        width: 100%;
+        margin-left: -70px;
+        padding: 5px 0;
+        padding-left: 0;
+        text-align: right;
+    }
+    .headerbook a {
+        padding: 15px 10px;
+    }
+    .new,
+    .curent {
+        width: 175px;
+    }
+    .bannersection {
+        position: relative;
+        height: 1153px;
+    }
+    .infocol {
+        width: 100%;
+    }
+    .blogcol {
+        width: 100%;
+    }
+    .blogcol1 {
+        width: 100%;
+    }
+    .footerbookcol {
+        padding: 0px;
+    }
+    .footernew {
+        padding: 10px 0px;
+        width: 45%;
+    }
+    .footercurrnet{
+        width: 45%;
+    }
+    .footercurrnet {
+        float: right;
+        /* text-align: center; */
+        /* border: 1px solid; */
+        width: 50%;
+        border-radius: 3px;
+        padding: 10px;
+        padding: 10px 0px;
+    }
+    .footerptime {
+        width: 100%;
+        background: #ffffff;
+        border-radius: 0px;
+        font-weight: 300;
+        padding: 7px 17px;
+        /* border: none; */
+        font-size: 15px;
+        border: 1px solid;
+        height: 40px;
+        outline: 0;
+    }
+    .footerpdate input {
+        width: 100%;
+        background: #ffffff;
+        border-radius: 0px;
+        font-weight: 300;
+        padding: 7px 17px;
+        /* border: none; */
+        font-size: 15px;
+        border: 1px solid;
+        height: 40px;
+        outline: 0;
+    }
+    .footerptime {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        border-radius: 5px;
+    }
+    .footerappoimentsection {
+        padding: 40px 0px;
+    }
+    .footerbookappbtn {
+        text-align: center;
+    }
+    .opninghours {
+        float: left;
+        margin: 0;
+        width: 100%;
+        z-index: 1;
+        position: relative;
+        padding: 10px;
+        text-align: center;
+    }
+    .footerlocation {
+        float: left;
+        margin: 0;
+        width: 100%;
+        z-index: 1;
+        position: relative;
+        padding: 10px;
+        text-align: center;
+    }
+    ul.foothourslist li .foothoursday {
+        text-align: justify;
+    }
+    ul.mainmenu.active {
+        top: 40px;
+        width: 260px;
+    }
+    
+    .pricingcol {
+        width: 100%;
+        padding: 10px 0px;
+        display: inline-block;
+        float: left;
+        text-align: -webkit-center;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .location i {
+        position: absolute;
+        left: -34px;
+        top: 10px;
+        font-size: 36px;
+        color: #3680c5;
+        display: inline-block;
+        content: "\f3c5";
+    }
+    .footerinfosection {
+        padding: 20px 0px 40px 0px;
+      
+    }
+    .ourservice .owl-item.active .item {
+        border-right: none;
+    }
+    .ourphoto {
+        transition: transform 250ms;
+        border-radius: 50%;
+        height: 90px;
+        width: 90px;
+        padding: 20px;
+        margin: 0 auto;
+        margin-top: 35px;
+        /* border-radius: 0 50%; */
+        overflow: hidden;
+        margin-bottom: 0px;
+    }
+    .ourservicecontant p {
+        text-align: center;
+        margin-top: 20px;
+        padding: 0 28px;
+        margin-bottom: 0px;
+    }
+    .tittle {
+        font-size: 26px;
+        color: rgb(73, 122, 188);
+        font-weight: normal;
+        line-height: 1.2;
+        max-width: 330px;
+        margin: 20px auto;
+        text-align: center;
+    }
+    .infosection {
+        padding: 40px 0px 40px;
+    }
+    .aboutsection {
+        padding: 20px 0px;
+    }
+    .banerform {
+        padding: 50px 10px;
+        box-shadow: 10px 10px 40px 0px rgba(0, 0, 0, 0.3);
+        border-radius: 10px;
+        background-color: white;
+    }
+    .new,
+    .curent {
+        width: 50%;
+        padding: 10px 0px;
+    }
+    label {
+        padding: 10px 0px;
+    }
+    .ourdoctorsection.clearfix .wrap-inner {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .header-right {
+        float: none;
+        display: inline-block;
+        vertical-align: top;
+        margin-left: 0;
+        padding-left: 0;
+        width: 100%;
+        text-align: center;
+    }
+    .location {
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+    ul.mainmenu.active {
+        top: 50px;
+    width: 260px;
+    }
+    
+    .location {
+        border: none;
+    }
+    .headaddress {
+        width: 100%;
+        text-align: center;
+        border: none;
+    }
+    .headaddress a {
+        font-size: 16px;
+        margin-left: 33px;
+        /* margin-right: 20px; */
+    }
+    .headaddress i {
+        position: absolute;
+        left: -161px;
+        top: 12px;
+        font-size: 36px;
+        color: #3680c5;
+        display: inline-block;
+        right: 0;
+    }
+    .headaddress {
+        padding: 10px;
+        margin-right: 0px;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .header-right {
+        float: left;
+        width: 600px;
+        margin-left: -300px;
+        padding: 5px 0;
+        /* padding-left: 300px; */
+        text-align: right;
+    }
+    .headaddress {
+        width: 50%;
+        text-align: center;
+        border: none;
+    }
+    .number {
+        width: 100%;
+        text-align: center;
+        padding: 10px 0px 10px 280px;
+    }
+    .location {
+        text-align: center;
+        margin-right: 75px;
+        border: none;
+        padding: 10px 0px;
+    }
+    .new,
+    .curent {
+        width: 50%;
+        padding: 10px 0px 10px 0px;
+    }
+    
+    .reviewcol {
+        width: 100%;
+        margin: 0 0 0 auto;
+        padding: 0px;
+    }
+    .pricingcol {
+        width: 100%;
+        padding: 10px 0;
+        display: inline-block;
+        float: left;
+        text-align: -webkit-center;
+    }
+    .aboutphoto img {
+        width: 100%;
+        display: block;
+    }
+    label {
+        padding: 10px 0px;
+        display: inline-block;
+        border: 1px solid grey;
+        cursor: pointer;
+        width: 105px;
+        text-align: center;
+        border-radius: 3px;
+    }
+    .footerbookcol {
+        float: left;
+        margin: 0;
+        width: 100%;
+        z-index: 1;
+        position: relative;
+        padding: 0px 10px 0px 10px;
+    }
+    .footerfirst_name,
+    .footeremail,
+    .footerphone,
+    .footerpdate,
+    .footercomments,
+    .footerbookbtn {
+        padding: 10px 0px 0px;
+    }
+    .footernew {
+        float: left;
+        margin: 0;
+        width: 50%;
+        z-index: 1;
+        position: relative;
+        /* background-image: linear-gradient(to right top, #58c6ec, #4cb4e3, #46a1d8, #468fcc, #4a7cbe); */
+        border: none;
+        /* text-align: center; */
+        border-radius: 3px;
+        padding: 10px;
+        padding: 10px 0px;
+    }
+    .footercurrnet {
+        float: right;
+        /* text-align: center; */
+        /* border: 1px solid; */
+        width: 50%;
+        border-radius: 3px;
+        padding: 10px;
+        padding: 10px 0px;
+    }
+    .footerptime {
+        width: 100%;
+        background: #ffffff;
+        border-radius: 0px;
+        font-weight: 300;
+        padding: 7px 17px;
+        /* border: none; */
+        font-size: 15px;
+        border: 1px solid;
+        height: 40px;
+        outline: 0;
+    }
+    .footerpdate input {
+        width: 100%;
+        background: #ffffff;
+        border-radius: 0px;
+        font-weight: 300;
+        padding: 7px 17px;
+        /* border: none; */
+        font-size: 15px;
+        border: 1px solid;
+        height: 40px;
+        outline: 0;
+    }
+    .footerptime {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        border-radius: 5px;
+    }
+    .footerappoimentsection {
+        padding: 20px 0px 20px 0px;
+    }
+    .footernew label {
+        width: 130px;
+    }
+    .footercurrnet label {
+        width: 133px;
+    }
+    .footerbookappbtn {
+        text-align: center;
+        margin-top: 10px;
+    }
+    .ourgallerysection .item img {
+        width: 100%;
+    }
+    .tittle {
+        font-size: 20px;
+        color: rgb(73, 122, 188);
+        font-weight: normal;
+        line-height: 1.4;
+        max-width: 330px;
+        margin: 20px auto;
+        text-align: center;
+    }
+    .formtitle {
+        font-size: 24px;
+        color: #497abc;
+        line-height: 1.1;
+        text-align: center;
+        margin-bottom: 30px;
+        font-weight: 500;
+    }
+    .bookappbtn button {
+        font-size: 14px;
+    }
+    .title h2 {
+        font-size: 24px;
+        font-weight: 300;
+    }
+    .ourserviesection h2 {
+        margin: 0 0 25px;
+        font-size: 24px;
+        line-height: 1.2;
+        font-weight: 500;
+        color: #384657;
+        text-align: center;
+    }
+    .ourdoctorsection h2 {
+        margin: 0 0 25px;
+        font-size: 24px;
+        line-height: 1.2;
+        font-weight: 500;
+        color: #384657;
+        text-align: center;
+    }
+    .promotionplansection h2 {
+        margin: 0 0 25px;
+        font-size: 24px;
+        line-height: 1.2;
+        font-weight: 500;
+        color: #384657;
+        text-align: center;
+    }
+    .boxlist li {
+        font-size: 12px;
+        font-weight: 300;
+        padding: 10px 0px;
+        display: block;
+        border-bottom: 0px solid #dadada;
+    }
+    .blogsection h2 {
+        margin: 0 0 25px;
+        font-size: 24px;
+        line-height: 1.2;
+        font-weight: 500;
+        color: #384657;
+        text-align: center;
+    }
+    .ourgallerysection h2 {
+        margin: 0 0 25px;
+        font-size: 24px;
+        line-height: 1.2;
+        font-weight: 500;
+        color: #384657;
+        text-align: center;
+    }
+    .footerappoimentsection h2 {
+        margin: 0 0 25px;
+        font-size: 24px;
+        line-height: 1.2;
+        font-weight: 500;
+        color: #384657;
+        text-align: center;
+    }
+    ul.mainmenu.active {
+       top: 50px;
+    width: 260px;
+    }
+    ul.mainmenu a {
+        padding: 10px 16px;
+    }
+    .ourdoccontant a {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .pricingbox a {
+        padding: 10px 20px;
+    }
+    .location a {
+        display: inline-block;
+        vertical-align: middle;
+        font-size: 16px;
+        margin-right: 3px;
+    }
+    .banerform {
+        padding: 50px 20px;
+        box-shadow: 10px 10px 40px 0px rgb(0 0 0 / 30%);
+        border-radius: 10px;
+        background-color: white;
+    }
+    .bannersection {
+        position: relative;
+        height: 1000px;
+    }
+    .ourphoto {
+        transition: transform 250ms;
+        border-radius: 50%;
+        height: 90px;
+        width: 90px;
+        padding: 20px;
+        margin: 0 auto;
+        margin-top: 20px;
+        /* border-radius: 0 50%; */
+        overflow: hidden;
+        margin-bottom: 20px;
+    }
+    .ourservicecontant p {
+        text-align: center;
+        margin-top: 20px;
+        padding: 0 28px;
+        margin-bottom: 0px;
+    }
+    .box-head {
+        padding: 0px;
+    }
+    .pricingplansection.clearfix h2 {
+        margin: 0;
+    }
+    ul.boxlist {
+        padding: 0 10px;
+        list-style-type: none;
+        max-width: 270px;
+        margin: 0 auto 30px;
+    }
+    .box-head h3 sup {
+        font-size: 35px;
+        line-height: 1.1;
+        margin: 0;
+        top: 3px;
+        font-weight: 300;
+        display: inline-block;
+        vertical-align: top;
+        position: relative;
+    }
+    .box-head h3 {
+        font-size: 40px;
+        line-height: 1;
+        margin: 0px 0 10px 0;
+        font-weight: 300;
+    }
+    .box-head span {
+        font-size: 20px;
+        color: #4979bc;
+        font-weight: normal;
+        line-height: 1.1;
+        display: block;
+        margin-bottom: 10px;
+    }
+    .pricingplansection.clearfix h1 {
+        margin: 0 0 25px;
+        font-size: 24px;
+        line-height: 1.2;
+        font-weight: 500;
+        color: #384657;
+        text-align: center;
+    }
+    .partnersection .item {
+        display: inline-block;
+        vertical-align: middle;
+        float: none;
+        padding: 0 20px;
+        width: 100%;
+        text-align: -webkit-center;
+    }
+    .promotionplansection.clearfix {
+        background-color: #f6f7f7;
+        padding: 40px 0px;
+    }
+    .ourdoctorsection {
+        padding: 40px 15px 20px 15px;
+    }
+    .ourdoccol {
+        margin-bottom: 20px;
+    }
+    .pricingplansection {
+        padding: 20px 40px 20px 40px;
+    }
+    .pricingbox {
+        padding: 20px 0 20px;
+    }
+    .ourgallerysection {
+        padding: 20px 0px 0px 0px;
+    }
+    .footerinfosection {
+        padding: 20px 0px 20px 0px;
+        background-color: #17364a;
+    }
+    .infosection {
+        padding: 20px 0px 20px;
+    }
+    .plancol {
+        padding: 0px;
+    }
+     .owl-carousel .owl-item {
+        min-height: 1px;
+        float: left;
+        -webkit-backface-visibility: hidden;
+        -webkit-touch-callout: none;
+        margin: 0 !important;
+      }
+      .ourdoccontant {
+        padding: 30px 60px;
+    }
+    .footerphone{
+        padding: 0px;
+    }
+}
